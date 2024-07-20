@@ -1,0 +1,11 @@
+kernel
+
+# Artifacts from mounting this as your home directory
+.cache
+.vscode
+.vscode-server
+.bash_history
+.ssh
+.gnupg
+.viminfo
+.gitconfig
